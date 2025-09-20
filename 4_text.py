@@ -104,11 +104,11 @@ st.divider()
 st.header("Our Products")
 col1, col2, col3 = st.columns(3)
 with col1:
-    st.image("assets/myfile/startpage/apple.png", caption="Red Apples")
+    st.image("assets/apple.png", caption="Red Apples")
 with col2:
-    st.image("assets/myfile/startpage/organ.png", caption="Fresh Oranges")
+    st.image("assets/organ.png", caption="Fresh Oranges")
 with col3:
-    st.image("assets/myfile/startpage/Grapes.png", caption="Sweet Grapes")
+    st.image("assets/Grapes.png", caption="Sweet Grapes")
 
 st.divider()
 
