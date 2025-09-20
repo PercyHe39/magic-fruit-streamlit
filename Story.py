@@ -36,12 +36,12 @@ st.title('Storyboard')
 
 # 1) 把 6 张图与描述放到一个列表里（按你想显示的顺序）
 items = [
-    {"img": "assets/myfile/storyboard/1.png", "text": "On the farm, a farmer is inspecting and picking ripe oranges, ensuring they are fresh and high-quality. The green truck is ready for transport."},
-    {"img": "assets/myfile/storyboard/2.png", "text": "In the factory, a worker is checking the oranges on the conveyor belt, removing any that do not meet quality standards."},
-    {"img": "assets/myfile/storyboard/3.png", "text": "The sorted fruits are placed in blue crates and neatly stored on shelves, waiting for packaging and delivery."},
-    {"img": "assets/myfile/storyboard/4.png", "text": "A worker uses a forklift to load the packaged fruit boxes onto the green delivery truck, preparing them for shipment."},
-    {"img": "assets/myfile/storyboard/5.png", "text": "The green delivery truck travels on the road, bringing the fresh fruits quickly to the city markets and stores."},
-    {"img": "assets/myfile/storyboard/6.png", "text": "At the farmers' market, a customer buys fresh oranges and vegetables, completing the farm-to-table journey."},
+    {"img": "assets/1.png", "text": "On the farm, a farmer is inspecting and picking ripe oranges, ensuring they are fresh and high-quality. The green truck is ready for transport."},
+    {"img": "assets/2.png", "text": "In the factory, a worker is checking the oranges on the conveyor belt, removing any that do not meet quality standards."},
+    {"img": "assets/3.png", "text": "The sorted fruits are placed in blue crates and neatly stored on shelves, waiting for packaging and delivery."},
+    {"img": "assets/4.png", "text": "A worker uses a forklift to load the packaged fruit boxes onto the green delivery truck, preparing them for shipment."},
+    {"img": "assets/5.png", "text": "The green delivery truck travels on the road, bringing the fresh fruits quickly to the city markets and stores."},
+    {"img": "assets/6.png", "text": "At the farmers' market, a customer buys fresh oranges and vegetables, completing the farm-to-table journey."},
 ]
 
 # 2) 先创建两行三列
