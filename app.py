@@ -9,9 +9,13 @@ st.set_page_config(
     page_icon="🎬", 
     layout="wide")
 
+BASE = Path(__file__).parent
+def p(rel):
+    return str((BASE / rel).as_posix())
+    
 with st.sidebar:
-    # st.code('''st.image('assets/lmyfile/Compny LOGO.png')''')
-    st.image('assets/myfile/Compny LOGO.png')
+    # st.code('''st.image('assets/logo.png')''')
+    st.image(p("assets/logo.png"), caption="Magic Fruit")
 
 pages = {
     "Homepage": [
