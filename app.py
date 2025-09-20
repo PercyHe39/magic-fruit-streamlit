@@ -27,10 +27,10 @@ pages = {
     #     st.Page("pages/Container.py", title="Container"),
     # ],
     "Images": [
-        st.Page("pages/Poster.py", title="Poster"),
-        st.Page("pages/Story.py", title="Storyboard"),
+        st.Page("Poster.py", title="Poster"),
+        st.Page("Story.py", title="Storyboard"),
         # st.Page("pages/Gallery.py", title="Gallery"),
-        st.Page("pages/banner.py", title="Banner"),
+        st.Page("banner.py", title="Banner"),
         # st.Page("pages/Image_map.py", title="Image Map"),
 
     ],
@@ -38,7 +38,7 @@ pages = {
     #     st.Page("pages/Audio.py", title="Audio"),
     # ],
     "Videos": [
-        st.Page("pages/2_Video.py", title="Animation"),
+        st.Page("2_Video.py", title="Animation"),
         # st.Page("pages/Chapter.py", title="Video Chapter"),
     ],
     
