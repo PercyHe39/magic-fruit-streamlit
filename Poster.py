@@ -21,7 +21,7 @@ tab1, = st.tabs(["Magic Fruit"])
 with tab1:
     st.header("Farm Direct . Daily Fresh")
     with st.container(border=True,width=600,height=800):
-        st.image("assets/myfile/poster/poster.png")
+        st.image("assets/poster.png")
 # with tab2:    
 #     st.header("Avatar")
 #     with st.container(width=600,height="content"):
