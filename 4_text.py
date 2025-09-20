@@ -108,7 +108,7 @@ with col1:
 with col2:
     st.image("assets/organ.png", caption="Fresh Oranges")
 with col3:
-    st.image("assets/Grapes.png", caption="Sweet Grapes")
+    st.image("assets/grapes.png", caption="Sweet Grapes")
 
 st.divider()
 
