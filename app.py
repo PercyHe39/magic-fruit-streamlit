@@ -19,7 +19,7 @@ with st.sidebar:
 
 pages = {
     "Homepage": [
-        st.Page("pages/4_text.py", title="Introduction"),
+        st.Page("4_text.py", title="Introduction"),
     ],
     # "Layout": [
     #     st.Page("pages/Cols.py", title="Columns"),
