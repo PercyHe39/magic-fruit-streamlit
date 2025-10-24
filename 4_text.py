@@ -119,7 +119,7 @@ Every fruit has a story. From harvesting in the orchard, quality inspection, sor
 and packaging, to transportation and market sales, we ensure transparency 
 and freshness at every step.
 """)
-st.video("https://www.youtube.com/watch?v=8gJ5i3h2j0U")  # 这里可以替换为你后续做的动画视频链接
+st.video("https://www.youtube.com/watch?v=eyEzG68mLNA")  # 这里可以替换为你后续做的动画视频链接
 
 st.divider()
 
